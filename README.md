@@ -2,6 +2,10 @@
 
 Hardcoded for my personal puzzle inputs, have not tried anyone else's
 
-To run, [download Dyalog APL](https://www.dyalog.com/download-zone.htm?p=download) and paste in `solutions.apl`
+To run:
+- [download Dyalog APL](https://www.dyalog.com/download-zone.htm?p=download)
+- paste in `solutions.apl`
+- edit the `]cd` line as appropriate, relative to your home directory
+- and press Enter
 
-Currently solved: {TODO}
+Currently solved: days 1-3
