@@ -8,4 +8,4 @@ To run:
 - edit the `]cd` line as appropriate, relative to your home directory
 - and press Enter
 
-Currently solved: days 1-3
+Currently solved: days 1-3, 12
